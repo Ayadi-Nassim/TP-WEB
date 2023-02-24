@@ -1,0 +1,21 @@
+.list-item{
+    width: 50%;
+    height: auto;
+    border-radius: 10px;
+    border-color: white;
+    border: solid;
+    margin: 10px;
+    padding: 8px;
+    border-width: 0px;
+    font-size: large;
+    background-color: white;
+    list-style: none;
+    word-wrap: break-word;
+    
+
+    
+}
+
+.Todo{
+    background-color: rgb(144, 255, 218);
+}
